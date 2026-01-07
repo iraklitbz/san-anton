@@ -63,7 +63,7 @@
     </h2>
 
     <p class="mt-4 text-xl leading-relaxed text-gray-700">
-      Los hermanos, salvo los más trasnochadores, fueron apareciendo para disfrutar del día del Santo. Acompañados, como es habitual, de los gaiteros de Sigüenza, subieron en busca del Mayordomo para ir a la iglesia. El Padre Juan ofició la homilía, acompañado de su inseparable monaguillo Sergio Peco 'El Bolo'. Algunos cofrades sacaron sus mejores voces para entonar las canciones de misa. Sería solo un calentamiento para todo lo que vendría después.
+      Los hermanos, salvo los más trasnochadores, fueron apareciendo para disfrutar del día del Santo. Acompañados, como es habitual, de los dulzaineros de Sigüenza, subieron en busca del Mayordomo para ir a la iglesia. El Padre Juan ofició la homilía, acompañado de su inseparable monaguillo Sergio Peco 'El Bolo'. Algunos cofrades sacaron sus mejores voces para entonar las canciones de misa. Sería solo un calentamiento para todo lo que vendría después.
     </p>
 
     <p class="mt-4 text-xl leading-relaxed text-gray-700">
