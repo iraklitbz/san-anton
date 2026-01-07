@@ -10,12 +10,17 @@ useSeoMeta({
   ogTitle: 'CRÓNICA SAN ANTÓN 2025',
   ogDescription: 'La Cofradía de San Antón de Jadraque celebra su edición número 86. Vísperas, día del Santo y sorteo del cerdo. 16, 17 y 18 de enero.',
   ogImage: `${siteUrl}/cofradia.png`,
+  ogImageWidth: '1200',
+  ogImageHeight: '630',
+  ogImageAlt: 'Cofradía de San Antonio Abad - Jadraque',
   ogUrl: siteUrl,
   ogType: 'article',
+  ogSiteName: 'Cofradía de San Antón',
   twitterCard: 'summary_large_image',
   twitterTitle: 'CRÓNICA SAN ANTÓN 2025',
   twitterDescription: 'Crónica completa de San Antón 2025 en Jadraque. Edición número 86 de la Cofradía.',
   twitterImage: `${siteUrl}/cofradia.png`,
+  twitterImageAlt: 'Cofradía de San Antonio Abad - Jadraque',
 })
 
 useHead({
