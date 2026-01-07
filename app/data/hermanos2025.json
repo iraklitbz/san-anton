@@ -1,0 +1,47 @@
+[
+  {
+    "nombre": "Pablo Carretero Bordonava",
+    "peso": 85,
+    "arrobas": "7,39"
+  },
+  {
+    "nombre": "Álvaro Gamo Barriopedro",
+    "peso": 92,
+    "arrobas": "8,00"
+  },
+  {
+    "nombre": "Vicente Castejón Manzanares",
+    "peso": 105,
+    "arrobas": "9,13"
+  },
+  {
+    "nombre": "Francisco Vicente",
+    "peso": 95,
+    "arrobas": "8,26"
+  },
+  {
+    "nombre": "Carlos Moreno Lozano",
+    "peso": 90,
+    "arrobas": "7,82"
+  },
+  {
+    "nombre": "Jorge Ghita",
+    "peso": 83,
+    "arrobas": "7,22"
+  },
+  {
+    "nombre": "Jorge Leganés Calvo",
+    "peso": 122,
+    "arrobas": "10,61"
+  },
+  {
+    "nombre": "Asier Fernández González",
+    "peso": 62,
+    "arrobas": "5,39"
+  },
+  {
+    "nombre": "Rodrigo Castillejo Escribano",
+    "peso": 31,
+    "arrobas": "2,70"
+  }
+]
