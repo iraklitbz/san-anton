@@ -24,11 +24,13 @@ onMounted(() => {
 })
 </script>
 <template>
-    <div class="p-3 min-h-screen bg-gradient-to-b from-[#fff0d6] to-white">
-      <header class="flex items-center justify-center mb-10 animate-fade-in">
-        <img class="w-full" src="/cofradia.png" alt="San Antón">
-      </header>
-      <section class="max-w-4xl mx-auto mt-12 space-y-6 p-5">
+    <div class="min-h-screen bg-gradient-to-b from-[#fff0d6] to-white">
+      <!-- Contenedor principal centrado -->
+      <div class="max-w-5xl mx-auto px-3 py-6 md:px-8 md:py-12">
+        <header class="flex items-center justify-center mb-10 animate-fade-in">
+          <img class="w-full max-w-3xl mx-auto" src="/cofradia.png" alt="San Antón">
+        </header>
+        <section class="max-w-3xl mx-auto space-y-6 p-5 md:px-8 md:py-10 bg-white/30 backdrop-blur-sm rounded-lg shadow-xl">
         <!-- Título principal -->
         <h2 class="text-4xl font-bold text-secondary-700 gottic text-center mb-2 animate-fade-in-up delay-200">
           CRÓNICA SAN ANTÓN 2025
@@ -177,8 +179,11 @@ onMounted(() => {
           una familia que no deja de crecer. Nos espera un 2026 apasionante. ¡A por él!
         </p>
       </section>
+
+      <!-- Sello final -->
       <div class="flex items-center justify-center my-10">
         <img class="w-52 seal-stamp" src="/logoSanAntonPig.png" alt="San Antón">
+      </div>
       </div>
     </div>
 </template>
