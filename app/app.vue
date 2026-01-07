@@ -1,6 +1,36 @@
 <script setup lang="ts">
 import hermanos from '~/data/hermanos2025.json'
 
+// SEO y Meta tags para compartir en redes sociales
+const siteUrl = 'https://san-anton.vercel.app'
+
+useSeoMeta({
+  title: 'CRÓNICA SAN ANTÓN 2025',
+  description: 'La Cofradía de San Antón de Jadraque celebra su edición número 86. Año del 150 aniversario del nacimiento del poeta Antonio Machado.',
+  ogTitle: 'CRÓNICA SAN ANTÓN 2025',
+  ogDescription: 'La Cofradía de San Antón de Jadraque celebra su edición número 86. Vísperas, día del Santo y sorteo del cerdo. 16, 17 y 18 de enero.',
+  ogImage: `${siteUrl}/cofradia.png`,
+  ogUrl: siteUrl,
+  ogType: 'article',
+  twitterCard: 'summary_large_image',
+  twitterTitle: 'CRÓNICA SAN ANTÓN 2025',
+  twitterDescription: 'Crónica completa de San Antón 2025 en Jadraque. Edición número 86 de la Cofradía.',
+  twitterImage: `${siteUrl}/cofradia.png`,
+})
+
+useHead({
+  htmlAttrs: {
+    lang: 'es'
+  },
+  link: [
+    {
+      rel: 'icon',
+      type: 'image/png',
+      href: '/logoSanAntonPig.png'
+    }
+  ]
+})
+
 // Scroll reveal animation
 onMounted(() => {
   const observerOptions = {
